@@ -1,2 +1,2 @@
 # Programmers-Calc
-Calculator Chrome extension that has the basic functions of a scientific calculator, plus other operations and conversions that a programmer would utilize.
+Chrome extension with the basic functions of a scientific calculator, conversions for CSS units, bit operations, and conversions for numeral systems (binary, octal, decimal, hex, base-64, ASCII).
